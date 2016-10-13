@@ -17,7 +17,7 @@
 
 
 ;;; Commentary:
-;;; Like intellij idea localhistory feature, this tries to emulate that leveraing magit api.
+;;; This package tries to emulate the intellij localhistory option using magit api.
 ;;; All saved buffers will be put into a git repository located in ~/.localhistory-emacs/ where you could
 ;;; use magit to recover your changes,etc.
 ;;; TODO:
